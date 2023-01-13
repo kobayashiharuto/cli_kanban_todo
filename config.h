@@ -1,0 +1,2 @@
+#define TASK_NAME_LEN 255
+#define MAX_TASK_COUNT 30
